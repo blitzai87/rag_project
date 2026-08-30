@@ -4,6 +4,7 @@ langchain-text-splitters
 langchain-ollama
 langchain-chroma
 langchain-core
+langchain-community
 chromadb
 pydantic>=2.7.4
 pydantic-settings
